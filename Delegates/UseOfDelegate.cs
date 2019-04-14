@@ -20,6 +20,9 @@ namespace Delegates
             
             // Commented in remote for Test3 branch
             
+
+            // Commented locally for Test2 branch
+            
             //Employee.getPromotion(lst);
             //Promotion del = new Promotion(Employee.getPromotion);
             //del(lst);
