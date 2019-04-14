@@ -17,6 +17,9 @@ namespace Delegates
             lst.Add(new Employee() { ID = 4, Name = "Deep", Sal = 6000, Exp = 3 }); // Conflicted comment in VS
             lst.Add(new Employee() { ID = 5, Name = "Mimo", Sal = 6000, Exp = 3 }); //Added in VS new branch
             lst.Add(new Employee() { ID = 6, Name = "Shanu", Sal = 6000, Exp = 3 }); //Added in remote location
+            
+            // Commented in remote for Test3 branch
+            
             //Employee.getPromotion(lst);
             //Promotion del = new Promotion(Employee.getPromotion);
             //del(lst);
