@@ -14,7 +14,7 @@ namespace Delegates
             lst.Add(new Employee() { ID = 1, Name = "Sourav", Sal = 5000, Exp = 5 });
             lst.Add(new Employee() { ID = 2, Name = "Atanu", Sal = 3000, Exp = 2 });
             lst.Add(new Employee() { ID = 3, Name = "Debonil", Sal = 4000, Exp = 7 });
-            lst.Add(new Employee() { ID = 4, Name = "Deep", Sal = 6000, Exp = 3 });
+            lst.Add(new Employee() { ID = 4, Name = "Deep", Sal = 6000, Exp = 3 }); // Conflicted comment in gitHub
             lst.Add(new Employee() { ID = 5, Name = "Mimo", Sal = 6000, Exp = 3 }); //Added in VS new branch
             lst.Add(new Employee() { ID = 6, Name = "Shanu", Sal = 6000, Exp = 3 }); //Added in remote location
             //Employee.getPromotion(lst);
